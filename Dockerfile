@@ -1,7 +1,5 @@
 FROM quay.io/actcat/buildpack_base:latest
 
-MAINTAINER Vexus2 <hikaru.tooyama@gmail.com>
-
 # Ruby is installed in buildpack_base
 
 # skip installing gem documentation
