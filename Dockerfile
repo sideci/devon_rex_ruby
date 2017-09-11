@@ -1,6 +1,4 @@
-FROM quay.io/actcat/buildpack_base:latest
-
-MAINTAINER Vexus2 <hikaru.tooyama@gmail.com>
+FROM quay.io/actcat/devon_rex_base:1.0.1
 
 # Ruby is installed in buildpack_base
 
