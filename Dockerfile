@@ -1,1 +1,1 @@
-FROM quay.io/actcat/devon_rex_base:1.0.2
+FROM quay.io/actcat/devon_rex_base:1.0.3
